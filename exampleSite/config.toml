@@ -44,11 +44,6 @@ URL = "blog"
 weight = 1
 
 [[menu.main]]
-name = "Pricing"
-URL = "pricing"
-weight = 2
-
-[[menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 3
@@ -63,27 +58,14 @@ weight = 4
 name = "About Us"
 URL = "#"
 
-[[menu.footer_left]]
-name = "Quick Start"
-URL = "#"
-
-[[menu.footer_left]]
-name = "Pricing"
-URL = "pricing"
 
 
 # footer menu middle
-[[menu.footer_middle]]
-name = "Pricing"
-URL = "pricing"
 
 [[menu.footer_middle]]
 name = "Platform"
 URL = "#"
 
-[[menu.footer_middle]]
-name = "Features"
-URL = "#"
 
 # footer menu right
 [[menu.footer_right]]
@@ -110,7 +92,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
 footer_menu_left = "Company"
-footer_menu_middle = "Product"
+footer_menu_middle = "Service"
 footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
